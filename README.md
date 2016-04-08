@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <table>
 <tr>
 <td>
@@ -54,8 +54,4 @@ This robot is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inte
 
 Este robot tiene una licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Por favor, lea los ficheros LICENSE para más detalles
 =======
-# Ican
-flex can bot
 
-
->>>>>>> origin/master
