@@ -7,11 +7,11 @@
 </tr>
 </table>
 
-<img src="images/BQ-8logo.png" width="250" align="center">
+<img src="images/logo.png" width="250" align="center">
 
 # I-CAN
 
-<img src="images/BQ-8logo.png" width="250" align="center">
+
 
 ## BOM
 - 2 Geared motor 
